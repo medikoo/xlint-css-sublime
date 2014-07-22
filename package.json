@@ -1,0 +1,23 @@
+{
+  "name": "xlint-sublime-css",
+  "version": "0.1.0",
+  "description": "XLint Css build system for Sublime Text2",
+  "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+  "keywords": [
+    "sublime",
+    "sublimetext",
+    "xlint",
+    "lint",
+    "css",
+    "csslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/xlint-css-sublime"
+  },
+  "dependencies": {
+    "xlint": "git://github.com/medikoo/xlint.git",
+    "xlint-csslint-next": "0.1.x"
+  },
+  "license": "MIT"
+}

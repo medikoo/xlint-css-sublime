@@ -1,0 +1,12 @@
+{
+	"cmd": [
+	  "node", 
+	  "${packages}/XLintCss/node_modules/xlint/bin/xlint",
+		// Provide path to included linter
+		"--linter=${packages}/XLintCss/node_modules/xlint-csslint-next/index.js",
+		// No color
+		"--no-color",
+	  "$file"
+	],
+	"selector": "source.css"
+}
