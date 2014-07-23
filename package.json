@@ -16,8 +16,8 @@
     "url": "git://github.com/medikoo/xlint-css-sublime"
   },
   "dependencies": {
-    "xlint": "git://github.com/medikoo/xlint.git",
-    "xlint-csslint-next": "0.1.x"
+    "xlint": "~0.2.1",
+    "xlint-csslint-next": "~0.1.3"
   },
   "license": "MIT"
 }
